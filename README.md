@@ -16,7 +16,7 @@
   
   👉 Co-Building - [3P I.T Services](https://www.facebook.com/profile.php?id=61572073283967)
   
-  👉 Co-Manager - [PopAPic](https://www.facebook.com/profile.php?id=61573260662717)
+  👉 Co-Manager - [PopAPic Photobooth](https://www.facebook.com/profile.php?id=61573260662717)
   
   👉 Leader of Published Research - [GarbMoCo Prototype](https://doi.org/10.30574/wjarr.2026.29.3.0589)
 
