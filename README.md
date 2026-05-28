@@ -40,22 +40,22 @@ These are either made from commission or a solo-fun project towards learning con
     <tr>
       <td>💻</td>
       <td><a href="https://github.com/disCarl20829/Manaklay-System">Manaklay Multisystem</td>
-      <td>Full-on accounting/inventory, cashier, and logbook system commissioned for a local beach resort.</td>
+      <td>Full-on accounting/inventory, cashier, and logbook system commissioned for a local beach resort</td>
     </tr>
     <tr>
       <td>💻</td>
       <td><a href="https://github.com/de0-14/MrTarpz-Accounting-and-Inventory-System">Mr.Tarpz Inventory & Accounting</td>
-      <td>Local system used by a printing shop using basic PHP fundamentals.</td>
+      <td>Local system used by a printing shop using basic PHP fundamentals</td>
     </tr>
     <tr>
       <td>🧠</td>
       <td><a href="https://github.com/disCarl20829/popapic-photobooth">PopAPic AI-Photobooth</td>
-      <td>Private photobooth system using simple AI-camera assistance.</td>
+      <td>Private photobooth system using simple AI-camera assistance</td>
     </tr>
     <tr>
       <td>📝</td>
       <td><a href="https://github.com/disCarl20829/aw-taskmgmt">AnimateWell Task Management</td>
-      <td>Trello-inspired task management group project for potentiality during an unpaid internship.</td>
+      <td>Trello-inspired task management group project for potentiality during an unpaid internship</td>
     </tr>
     <tr>
       <td>🔍</td>
