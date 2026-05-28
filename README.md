@@ -7,17 +7,63 @@
 - 🔭 Currently working on:  
   👉 [Manaklay System](https://github.com/disCarl20829/Manaklay-System)
 
-- 🌱 Learning:  
-  **Spring Boot • React.js • Java**
 
-- 👯 Co-building:  
-  👉 [3P I.T Services](https://www.facebook.com/profile.php?id=61572073283967)
+- 🌱 Learning:  
+  **Spring Boot • React.js • TypeScript**
+
+
+- 👯 Background / Experience:
+  
+  👉 Co-Building - [3P I.T Services](https://www.facebook.com/profile.php?id=61572073283967)
+  
+  👉 Co-Manager - [PopAPic](https://www.facebook.com/profile.php?id=61573260662717)
+  
+  👉 Leader of Published Research - [GarbMoCo Prototype](https://doi.org/10.30574/wjarr.2026.29.3.0589)
+
 
 - 📫 Reach me at:  
   **carl.012908pepito@gmail.com**
 
-- ⚡ Fun fact:  
-  I pick up new technologies fast — even if I don’t master them immediately.
+---
+
+### 🛠️ My Builds
+
+These are either made from commission or a solo-fun project towards learning concepts and foundations.
+
+<table>
+  <thead>
+    <th></th>
+    <th>Project</th>
+    <th>Description</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>💻</td>
+      <td><a href="https://github.com/disCarl20829/Manaklay-System">Manaklay Multisystem</td>
+      <td>Full-on accounting/inventory, cashier, and logbook system commissioned for a local beach resort.</td>
+    </tr>
+    <tr>
+      <td>💻</td>
+      <td><a href="https://github.com/de0-14/MrTarpz-Accounting-and-Inventory-System">Mr.Tarpz Inventory & Accounting</td>
+      <td>Local system used by a printing shop using basic PHP fundamentals.</td>
+    </tr>
+    <tr>
+      <td>🧠</td>
+      <td><a href="https://github.com/disCarl20829/popapic-photobooth">PopAPic AI-Photobooth</td>
+      <td>Private photobooth system using simple AI-camera assistance.</td>
+    </tr>
+    <tr>
+      <td>📝</td>
+      <td><a href="https://github.com/disCarl20829/aw-taskmgmt">AnimateWell Task Management</td>
+      <td>Trello-inspired task management group project for potentiality during an unpaid internship.</td>
+    </tr>
+    <tr>
+      <td>🔍</td>
+      <td><a href="https://github.com/disCarl20829/GarbMoCo">GarbMoCo Prototype</td>
+      <td>Simple PHP-based developmental research project for school (Unstable)</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
