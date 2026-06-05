@@ -28,7 +28,7 @@
 
 ### 🛠️ My Builds
 
-These are either made from commission or a solo-fun project towards learning concepts and foundations.
+These are either made from commission or a solo-fun project towards learning concepts and foundations. Either public or private due to commission purposes.
 
 <table>
   <thead>
