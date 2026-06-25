@@ -20,7 +20,7 @@
   
   👉 Leader of Published Research - [GarbMoCo Prototype](https://doi.org/10.30574/wjarr.2026.29.3.0589)
 
-  👉 Portfolio for Graphic Design - [Graphic Design](https://www.behance.net/gallery/251701087/My-Portfolio)
+  👉 [Portfolio for Graphic Design](https://www.behance.net/gallery/251701087/My-Portfolio)
 
 
 - 📫 Reach me at:  
